@@ -1,2 +1,2 @@
 # KuraCek
-simple casting lost project
+simple casting lots project
